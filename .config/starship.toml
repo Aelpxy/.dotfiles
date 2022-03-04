@@ -1,0 +1,3 @@
+[cmd_duration]
+min_time = 1
+format = "took [$duration](bold green)"
