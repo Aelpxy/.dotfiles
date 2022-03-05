@@ -12,7 +12,7 @@ set smartindent
 set smartcase
 set nobackup
 set incsearch
-" set termguicolors
+set termguicolors
 set scrolloff=8
 set noshowmode
 set completeopt=menuone,noinsert,noselect
