@@ -1,5 +1,5 @@
 set exrc
-" set guicursor=
+set guicursor=
 set nu
 set noerrorbells
 set hidden
