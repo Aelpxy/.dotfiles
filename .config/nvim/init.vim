@@ -20,26 +20,36 @@ set noshowmode
 set signcolumn=yes
 set cmdheight=2
 set completeopt=menuone,noinsert,noselect
+set mouse=a
+set autoindent
 
 " --- Plugins --- "
 call plug#begin()
-    Plug 'nvim-telescope/telescope.nvim'
     Plug 'gruvbox-community/gruvbox'
+    Plug 'vim-airline/vim-airline'
+    Plug 'ryanoasis/vim-devicons'
+    Plug 'preservim/nerdtree'
+    Plug 'jiangmiao/auto-pairs'
+    Plug 'neoclide/coc.nvim', {'branch': 'release'}
 call plug#end()
 
 " --- Stuff --- "
 colorscheme gruvbox
 highlight Normal guibg=none
 
-let mapleader = " "
+" --- Custom Keybindings --- "
+nnoremap <C-f> :NERDTreeFocus<CR>
+nnoremap <C-n> :NERDTree<CR>
+nnoremap <C-t> :NERDTreeToggle<CR>
+nnoremap <C-l> :call CocActionAsync('jumpDefinition')<CR>
+nnoremap <C-x> :term<CR>
+nnoremap <C-s> :w<CR>
+inoremap <expr> <Tab> pumvisible() ? coc#_select_confirm() : "<Tab>"
 
-nnoremap <leader>ps :lua require('telescope.builtin').grep_string({ search = vim.fn.input("Grep For > ")})<CR>
-nnoremap <C-p> :lua require('telescope.builtin').git_files()<CR>
-nnoremap <Leader>pf :lua require('telescope.builtin').find_files()<CR>
-nnoremap <leader>pw :lua require('telescope.builtin').grep_string { search = vim.fn.expand("<cword>") }<CR>
-nnoremap <leader>pb :lua require('telescope.builtin').buffers()<CR>
-nnoremap <leader>vh :lua require('telescope.builtin').help_tags()<CR>
+let g:NERDTreeDirArrowExpandable="+"
+let g:NERDTreeDirArrowCollapsible="~"
 
+" --- Stuff --- "
 fun! TrimWhiteSpace()
     let l:save = winsaveview()
     keeppatterns %s/\s\+$//e
