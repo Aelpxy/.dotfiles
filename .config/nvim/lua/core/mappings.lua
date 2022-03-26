@@ -24,8 +24,15 @@ map("n", "<C-Left>", "<cmd>vertical resize -2<CR>", opts)
 map("n", "<C-Right>", "<cmd>vertical resize +2<CR>", opts)
 
 -- Navigate buffers
-map("n", "<S-l>", "<cmd>bnext<CR>", opts)
-map("n", "<S-h>", "<cmd>bprevious<CR>", opts)
+if config.enabled.bufferline then
+  map("n", "<S-l>", "<cmd>BufferLineCycleNext<cr>", opts)
+  map("n", "<S-h>", "<cmd>BufferLineCyclePrev<cr>", opts)
+  map("n", "}", "<cmd>BufferLineMoveNext<cr>", opts)
+  map("n", "{", "<cmd>BufferLineMovePrev<cr>", opts)
+else
+  map("n", "<S-l>", "<cmd>bnext<CR>", opts)
+  map("n", "<S-h>", "<cmd>bprevious<CR>", opts)
+end
 
 -- Move text up and down
 map("n", "<A-j>", "<Esc><cmd>m .+1<CR>==gi", opts)
@@ -94,19 +101,21 @@ map("n", "<leader>sr", "<cmd>Telescope registers<CR>", opts)
 map("n", "<leader>sk", "<cmd>Telescope keymaps<CR>", opts)
 map("n", "<leader>sc", "<cmd>Telescope commands<CR>", opts)
 map("n", "<leader>ls", "<cmd>Telescope lsp_document_symbols<CR>", opts)
+map("n", "<leader>lR", "<cmd>Telescope lsp_references<CR>", opts)
+map("n", "<leader>lD", "<cmd>Telescope diagnostics<CR>", opts)
 
 -- Lspsaga
 if config.enabled.lspsaga then
   map("n", "gl", "<cmd>Lspsaga show_line_diagnostics<CR>", opts)
-  map("n", "ca", "<cmd>Lspsaga code_action<CR>", opts)
   map("n", "K", "<cmd>Lspsaga hover_doc<CR>", opts)
-  map("n", "rn", "<cmd>Lspsaga rename<CR>", opts)
+  map("n", "<leader>rn", "<cmd>Lspsaga rename<CR>", opts)
   map("n", "gj", "<cmd>Lspsaga diagnostic_jump_next<cr>", opts)
   map("n", "gk", "<cmd>Lspsaga diagnostic_jump_prev<cr>", opts)
   map("n", "<C-u>", "<cmd>lua require('lspsaga.action').smart_scroll_with_saga(-1)<cr>", opts)
   map("n", "<C-d>", "<cmd>lua require('lspsaga.action').smart_scroll_with_saga(1)<cr>", opts)
   map("n", "<leader>la", "<cmd>Lspsaga code_action<CR>", opts)
   map("n", "<leader>lr", "<cmd>Lspsaga rename<CR>", opts)
+  map("n", "<leader>ld", "<cmd>Lspsaga show_line_diagnostics<CR>", opts)
 end
 
 -- Comment
@@ -116,7 +125,7 @@ if config.enabled.comment then
 end
 
 -- ForceWrite
-map("n", "<C-w>", "<cmd>w!<CR>", opts)
+map("n", "<C-s>", "<cmd>w!<CR>", opts)
 
 -- ForceQuit
 map("n", "<C-q>", "<cmd>q!<CR>", opts)
@@ -137,7 +146,7 @@ end
 
 -- SymbolsOutline
 if config.enabled.symbols_outline then
-  map("n", "<leader>s", "<cmd>SymbolsOutline<CR>", opts)
+  map("n", "<leader>lS", "<cmd>SymbolsOutline<CR>", opts)
 end
 
 -- Visual --

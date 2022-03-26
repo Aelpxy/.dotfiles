@@ -14,6 +14,7 @@ function M.config()
     " ",
     " ",
     " ",
+    " ",
     "██    ██ ██ ███    ███",
     "██    ██ ██ ████  ████",
     "██    ██ ██ ██ ████ ██",
@@ -35,7 +36,7 @@ function M.config()
 
   g.dashboard_custom_footer = {
     " ",
-    "Vim loaded " .. plugins_count .. " plugins ",
+    " Vim loaded " .. plugins_count .. " plugins ",
   }
 end
 

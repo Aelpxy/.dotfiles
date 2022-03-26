@@ -58,7 +58,7 @@ function M.bootstrap()
       "https://github.com/wbthomason/packer.nvim",
       install_path,
     }
-    print "Cloning packer...\nSetup AstroVim"
+    print "Cloning packer...\nSetup Vim"
     vim.cmd [[packadd packer.nvim]]
   end
 end
