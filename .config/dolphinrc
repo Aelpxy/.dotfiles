@@ -1,0 +1,9 @@
+[General]
+Version=201
+ViewPropsTimestamp=2022,4,29,14,20,11.675
+
+[MainWindow]
+HDMI-1 XPosition 1360x768=252
+HDMI-1 YPosition 1360x768=75
+MenuBar=Disabled
+ToolBarsMovable=Disabled

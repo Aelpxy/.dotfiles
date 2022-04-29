@@ -1,0 +1,18 @@
+2022/04/29-12:19:07.776 44c3 Reusing MANIFEST /home/aelpxy/.config/chromium/Default/IndexedDB/http_206.189.141.214_3000.indexeddb.leveldb/MANIFEST-000001
+2022/04/29-12:19:07.777 44c3 Recovering log #3
+2022/04/29-12:19:07.794 44c3 Reusing old log /home/aelpxy/.config/chromium/Default/IndexedDB/http_206.189.141.214_3000.indexeddb.leveldb/000003.log 
+2022/04/29-12:56:56.126 4aa8 Level-0 table #5: started
+2022/04/29-12:56:56.222 4aa8 Level-0 table #5: 760979 bytes OK
+2022/04/29-12:56:56.228 4aa8 Delete type=0 #3
+2022/04/29-18:45:32.288 4f44 Level-0 table #7: started
+2022/04/29-18:45:32.345 4f44 Level-0 table #7: 373851 bytes OK
+2022/04/29-18:45:32.353 4f44 Delete type=0 #4
+2022/04/29-18:45:32.355 4f44 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2022/04/29-18:45:32.355 4f44 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x03\x01\x02\x018\x00w\x00o\x00r\x00k\x00b\x00e\x00n\x00c\x00h\x00.\x00e\x00d\x00i\x00t\x00o\x00r\x00.\x00l\x00a\x00n\x00g\x00u\x00a\x00g\x00e\x00D\x00e\x00t\x00e\x00c\x00t\x00i\x00o\x00n\x00O\x00p\x00e\x00n\x00e\x00d\x00L\x00a\x00n\x00g\x00u\x00a\x00g\x00e\x00s\x00.\x00g\x00l\x00o\x00b\x00a\x00l' @ 6466 : 1
+2022/04/29-18:45:32.355 4f44 Compacting 1@1 + 1@2 files
+2022/04/29-18:45:32.410 4f44 Generated table #8@1: 210 keys, 20190 bytes
+2022/04/29-18:45:32.410 4f44 Compacted 1@1 + 1@2 files => 20190 bytes
+2022/04/29-18:45:32.413 4f44 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/04/29-18:45:32.414 4f44 Delete type=2 #7
+2022/04/29-18:45:32.414 4f44 Delete type=2 #5
+2022/04/29-18:45:32.416 4f44 Manual compaction at level-1 from '\x00\x03\x01\x02\x018\x00w\x00o\x00r\x00k\x00b\x00e\x00n\x00c\x00h\x00.\x00e\x00d\x00i\x00t\x00o\x00r\x00.\x00l\x00a\x00n\x00g\x00u\x00a\x00g\x00e\x00D\x00e\x00t\x00e\x00c\x00t\x00i\x00o\x00n\x00O\x00p\x00e\x00n\x00e\x00d\x00L\x00a\x00n\x00g\x00u\x00a\x00g\x00e\x00s\x00.\x00g\x00l\x00o\x00b\x00a\x00l' @ 6466 : 1 .. (end); will stop at (end)
