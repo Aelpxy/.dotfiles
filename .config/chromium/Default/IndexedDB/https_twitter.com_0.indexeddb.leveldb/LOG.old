@@ -1,6 +1,0 @@
-2022/04/29-12:55:00.429 4aa8 Creating DB /home/aelpxy/.config/chromium/Default/IndexedDB/https_twitter.com_0.indexeddb.leveldb since it was missing.
-2022/04/29-12:55:00.448 4aa8 Reusing MANIFEST /home/aelpxy/.config/chromium/Default/IndexedDB/https_twitter.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/04/29-12:57:03.488 4aa8 Level-0 table #5: started
-2022/04/29-12:57:03.499 4aa8 Level-0 table #5: 12059 bytes OK
-2022/04/29-12:57:03.504 4aa8 Delete type=0 #3
-2022/04/29-12:57:03.504 4aa8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
