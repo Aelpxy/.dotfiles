@@ -5,7 +5,7 @@ MiscBell=FALSE
 MiscBellUrgent=FALSE
 MiscBordersDefault=TRUE
 MiscCursorBlinks=FALSE
-MiscCursorShape=TERMINAL_CURSOR_SHAPE_BLOCK
+MiscCursorShape=TERMINAL_CURSOR_SHAPE_IBEAM
 MiscDefaultGeometry=80x24
 MiscInheritGeometry=FALSE
 MiscMenubarDefault=TRUE
@@ -28,4 +28,8 @@ MiscNewTabAdjacent=FALSE
 MiscSearchDialogOpacity=100
 MiscShowUnsafePasteDialog=TRUE
 ColorUseTheme=TRUE
+MiscRightClickAction=TERMINAL_RIGHT_CLICK_ACTION_CONTEXT_MENU
+FontName=JetBrainsMono NF 12
+BackgroundMode=TERMINAL_BACKGROUND_TRANSPARENT
+BackgroundDarkness=0.850000
 
