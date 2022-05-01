@@ -1,0 +1,12 @@
+2022/05/01-16:36:56.880 5 Reusing MANIFEST /home/aelpxy/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2022/05/01-16:36:56.886 5 Recovering log #3
+2022/05/01-16:36:56.896 5 Reusing old log /home/aelpxy/.config/chromium/Default/Local Storage/leveldb/000003.log 
+2022/05/01-18:33:33.286 3f Level-0 table #5: started
+2022/05/01-18:33:33.304 3f Level-0 table #5: 21397 bytes OK
+2022/05/01-18:33:33.314 3f Delete type=0 #3
+2022/05/01-18:34:05.736 32 Level-0 table #7: started
+2022/05/01-18:34:05.777 32 Level-0 table #7: 396805 bytes OK
+2022/05/01-18:34:05.785 32 Delete type=0 #4
+2022/05/01-19:48:06.010 5f Level-0 table #9: started
+2022/05/01-19:48:06.035 5f Level-0 table #9: 16882 bytes OK
+2022/05/01-19:48:06.046 5f Delete type=0 #6

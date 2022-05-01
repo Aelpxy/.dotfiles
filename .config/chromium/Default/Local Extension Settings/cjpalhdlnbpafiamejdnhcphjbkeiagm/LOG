@@ -1,0 +1,17 @@
+2022/05/01-16:32:52.187 396 Creating DB /home/aelpxy/.config/chromium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm since it was missing.
+2022/05/01-16:32:52.215 396 Reusing MANIFEST /home/aelpxy/.config/chromium/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2022/05/01-16:32:56.887 396 Level-0 table #5: started
+2022/05/01-16:32:57.023 396 Level-0 table #5: 1408583 bytes OK
+2022/05/01-16:32:57.029 396 Delete type=0 #3
+2022/05/01-16:35:51.944 378 Level-0 table #7: started
+2022/05/01-16:35:52.137 378 Level-0 table #7: 1478445 bytes OK
+2022/05/01-16:35:52.149 378 Delete type=0 #4
+2022/05/01-16:36:53.766 378 Level-0 table #9: started
+2022/05/01-16:36:53.898 378 Level-0 table #9: 1549845 bytes OK
+2022/05/01-16:36:53.904 378 Delete type=0 #6
+2022/05/01-16:44:00.217 6d9 Level-0 table #11: started
+2022/05/01-16:44:00.382 6d9 Level-0 table #11: 1600667 bytes OK
+2022/05/01-16:44:00.387 6d9 Delete type=0 #8
+2022/05/01-16:50:03.818 6dd Level-0 table #13: started
+2022/05/01-16:50:04.026 6dd Level-0 table #13: 2434359 bytes OK
+2022/05/01-16:50:04.034 6dd Delete type=0 #10
