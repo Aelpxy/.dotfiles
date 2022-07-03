@@ -1,8 +1,0 @@
-2022/07/03-13:59:12.809 4b9 Log #87: dropping 2133 bytes; Corruption: missing start of fragmented record(2)
-2022/07/03-13:59:12.942 4b9 Log #87: 499 ops saved to Table #89 OK
-2022/07/03-13:59:12.952 4b9 Archiving /home/aelpxy/.config/chromium/Default/Extension State/000087.log: OK
-2022/07/03-13:59:12.963 4b9 Table #85: 2 entries OK
-2022/07/03-13:59:13.283 4b9 Table #88: 1404 entries OK
-2022/07/03-13:59:13.294 4b9 Table #89: 499 entries OK
-2022/07/03-13:59:13.295 4b9 Archiving /home/aelpxy/.config/chromium/Default/Extension State/MANIFEST-000001: OK
-2022/07/03-13:59:13.329 4b9 **** Repaired leveldb /home/aelpxy/.config/chromium/Default/Extension State; recovered 3 files; 2903219 bytes. Some data may have been lost. ****
