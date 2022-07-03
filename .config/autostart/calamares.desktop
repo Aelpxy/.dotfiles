@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Setup Manjaro ARM Linux
+GenericName=OEM Setup
+Comment=Finish the Manjaro ARM installation
+Exec=sudo -E calamares
+Icon=calamares
+Terminal=false
+StartupNotify=true
+Type=Application
+Categories=Qt;System;

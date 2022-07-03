@@ -1,0 +1,1817 @@
+{
+   "about": {
+      "message": "Acerca"
+   },
+   "acceptPolicies": {
+      "message": "Ao marcar esta caixa concorda com o seguinte:"
+   },
+   "acceptPoliciesError": {
+      "message": "Os Termos de Serviço e a Política de Privacidade não foram aceites."
+   },
+   "account": {
+      "message": "Conta"
+   },
+   "addFolder": {
+      "message": "Adicionar pasta"
+   },
+   "addItem": {
+      "message": "Adicionar item"
+   },
+   "addLogin": {
+      "message": "Adicionar uma credencial"
+   },
+   "addLoginNotificationDesc": {
+      "message": "A \"notificação de adicionar credencial\" solicita-lhe automaticamente a guardar novas credenciais para o seu cofre quando inicia sessão nas mesmas pela primeira vez."
+   },
+   "addSend": {
+      "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.",
+      "message": "Add Send"
+   },
+   "addedFolder": {
+      "message": "Pasta adicionada"
+   },
+   "addedItem": {
+      "message": "Item adicionado"
+   },
+   "address": {
+      "message": "Endereço"
+   },
+   "address1": {
+      "message": "Endereço 1"
+   },
+   "address2": {
+      "message": "Endereço 2"
+   },
+   "address3": {
+      "message": "Endereço 3"
+   },
+   "allItems": {
+      "message": "Todos os itens"
+   },
+   "allSends": {
+      "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.",
+      "message": "All Sends"
+   },
+   "apiUrl": {
+      "message": "URL do servidor da API"
+   },
+   "appName": {
+      "message": "Bitwarden"
+   },
+   "april": {
+      "message": "Abril"
+   },
+   "attachmentSaved": {
+      "message": "O anexo foi guardado."
+   },
+   "attachments": {
+      "message": "Anexos"
+   },
+   "august": {
+      "message": "Agosto"
+   },
+   "authenticatorAppDesc": {
+      "description": "'Authy' and 'Google Authenticator' are product names and should not be translated.",
+      "message": "Utilize uma aplicação de autenticador (tal como Authy ou Google Authenticator) para gerar códigos de verificação baseados na hora."
+   },
+   "authenticatorAppTitle": {
+      "message": "Aplicação de autenticador"
+   },
+   "authenticatorKeyTotp": {
+      "message": "Chave de autenticador (TOTP)"
+   },
+   "autoFill": {
+      "message": "Auto-preencher"
+   },
+   "autoFillAndSave": {
+      "message": "Auto-preencher e guardar"
+   },
+   "autoFillInfo": {
+      "message": "Não existem credenciais disponíveis para auto-preencher para o separador de navegador atual."
+   },
+   "autoFillOnPageLoadNo": {
+      "message": "Do not auto-fill on page load"
+   },
+   "autoFillOnPageLoadUseDefault": {
+      "message": "Use default setting"
+   },
+   "autoFillOnPageLoadYes": {
+      "message": "Auto-fill on page load"
+   },
+   "autoFillSuccess": {
+      "message": "Item auto-preenchido"
+   },
+   "autoFillSuccessAndSavedUri": {
+      "message": "Item auto-preenchido e URI guardado"
+   },
+   "autofillError": {
+      "message": "Não é possível auto-preencher o item selecionado nesta página. Em alternativa, copie e cole a informação."
+   },
+   "avoidAmbChar": {
+      "message": "Evitar caracteres ambíguos"
+   },
+   "awaitDesktop": {
+      "message": "Awaiting confirmation from desktop"
+   },
+   "awaitDesktopDesc": {
+      "message": "Please confirm using biometrics in the Bitwarden Desktop application to enable biometrics for browser."
+   },
+   "back": {
+      "message": "Retroceder"
+   },
+   "baseDomain": {
+      "message": "Domínio base"
+   },
+   "baseUrl": {
+      "message": "URL do servidor"
+   },
+   "biometricsNotEnabledDesc": {
+      "message": "Browser biometrics requires desktop biometric to be enabled in the settings first."
+   },
+   "biometricsNotEnabledTitle": {
+      "message": "Biometrics not enabled"
+   },
+   "biometricsNotSupportedDesc": {
+      "message": "Browser biometrics is not supported on this device."
+   },
+   "biometricsNotSupportedTitle": {
+      "message": "Biometrics not supported"
+   },
+   "bitWebVault": {
+      "message": "Cofre Web Bitwarden"
+   },
+   "brand": {
+      "message": "Marca"
+   },
+   "browserNotSupportClipboard": {
+      "message": "O seu navegador web não suporta cópia fácil da área de transferência. Em alternativa, copie manualmente."
+   },
+   "cancel": {
+      "message": "Cancelar"
+   },
+   "capitalize": {
+      "description": "Make the first letter of a work uppercase.",
+      "message": "Capitalizar"
+   },
+   "cardholderName": {
+      "message": "Titular do cartão"
+   },
+   "cards": {
+      "message": "Cartões"
+   },
+   "cfTypeBoolean": {
+      "message": "Booleano"
+   },
+   "cfTypeHidden": {
+      "message": "Ocultado"
+   },
+   "cfTypeText": {
+      "message": "Texto"
+   },
+   "changeMasterPass": {
+      "message": "Alterar palavra-passe mestra"
+   },
+   "changeMasterPassword": {
+      "message": "Alterar palavra-passe mestra"
+   },
+   "changeMasterPasswordConfirmation": {
+      "message": "Pode alterar a sua palavra-passe mestra no cofre web bitwarden.com. Pretende visitar o website agora?"
+   },
+   "checkPassword": {
+      "message": "Verifica se a palavra-passe foi exposta."
+   },
+   "cityTown": {
+      "message": "Cidade / localidade"
+   },
+   "clear": {
+      "description": "To clear something out. example: To clear browser history.",
+      "message": "Limpar"
+   },
+   "clearClipboard": {
+      "description": "Clipboard is the operating system thing where you copy/paste data to on your device.",
+      "message": "Limpar área de transferência"
+   },
+   "clearClipboardDesc": {
+      "description": "Clipboard is the operating system thing where you copy/paste data to on your device.",
+      "message": "Limpar automaticamente valores copiados da sua área de transferência."
+   },
+   "clone": {
+      "message": "Clonar"
+   },
+   "cloneItem": {
+      "message": "Clonar item"
+   },
+   "close": {
+      "message": "Fechar"
+   },
+   "collections": {
+      "message": "Coleções"
+   },
+   "commandAutofillDesc": {
+      "message": "Auto-preencher o último início de sessão utilizado para o website atual"
+   },
+   "commandGeneratePasswordDesc": {
+      "message": "Gerar e copiar uma nova palavra-passe aleatória para a área de transferência"
+   },
+   "commandLockVaultDesc": {
+      "message": "Bloquear o cofre"
+   },
+   "commandOpenPopup": {
+      "message": "Abrir popup do cofre"
+   },
+   "commandOpenSidebar": {
+      "message": "Abrir cofre na barra lateral"
+   },
+   "company": {
+      "message": "Empresa"
+   },
+   "confirmVaultExport": {
+      "message": "Confirm Vault Export"
+   },
+   "continue": {
+      "message": "Continuar"
+   },
+   "copyCustomFieldNameInvalidElement": {
+      "message": "Unable to identify a valid form element. Try inspecting the HTML instead."
+   },
+   "copyCustomFieldNameNotUnique": {
+      "message": "No unique identifier found."
+   },
+   "copyElementIdentifier": {
+      "message": "Copy Custom Field Name"
+   },
+   "copyNote": {
+      "message": "Copiar nota"
+   },
+   "copyNumber": {
+      "message": "Copiar número"
+   },
+   "copyPassword": {
+      "message": "Copiar palavra-passe"
+   },
+   "copySecurityCode": {
+      "message": "Copiar código de segurança"
+   },
+   "copySendLink": {
+      "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.",
+      "message": "Copiar Send link"
+   },
+   "copyUri": {
+      "message": "Copiar URI"
+   },
+   "copyUsername": {
+      "message": "Copiar nome de utilizador"
+   },
+   "copyValue": {
+      "message": "Copiar valor"
+   },
+   "copyVerificationCode": {
+      "message": "Copiar código de verificação"
+   },
+   "country": {
+      "message": "País"
+   },
+   "createAccount": {
+      "message": "Criar conta"
+   },
+   "createSend": {
+      "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.",
+      "message": "Create New Send"
+   },
+   "createdSend": {
+      "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.",
+      "message": "Created Send"
+   },
+   "currentAccessCount": {
+      "message": "Current Access Count"
+   },
+   "currentTab": {
+      "message": "Separador atual"
+   },
+   "currentUri": {
+      "description": "The URI of one of the current open tabs in the browser.",
+      "message": "URI atual"
+   },
+   "custom": {
+      "message": "Custom"
+   },
+   "customEnvironment": {
+      "message": "Ambiente personalizado"
+   },
+   "customEnvironmentFooter": {
+      "message": "Para utilizadores avançados. Pode especificar o URL de base de cada serviço independentemente."
+   },
+   "customFields": {
+      "message": "Campos personalizados"
+   },
+   "dark": {
+      "description": "Dark color",
+      "message": "Escuro"
+   },
+   "dateParsingError": {
+      "message": "There was an error saving your deletion and expiration dates."
+   },
+   "datePasswordUpdated": {
+      "description": "ex. Date this password was updated",
+      "message": "Palavra passe atualizada"
+   },
+   "dateUpdated": {
+      "description": "ex. Date this item was updated",
+      "message": "Atualizado"
+   },
+   "days": {
+      "message": "$DAYS$ days",
+      "placeholders": {
+         "days": {
+            "content": "$1",
+            "example": "2"
+         }
+      }
+   },
+   "december": {
+      "message": "Dezembro"
+   },
+   "default": {
+      "message": "Predefinido"
+   },
+   "defaultAutoFillOnPageLoad": {
+      "message": "Default autofill setting for login items"
+   },
+   "defaultAutoFillOnPageLoadDesc": {
+      "message": "After enabling Auto-fill on Page Load, you can enable or disable the feature for individual login items. This is the default setting for login items that are not separately configured."
+   },
+   "defaultMatchDetection": {
+      "description": "Default URI match detection for auto-fill.",
+      "message": "Deteção de correspondência predefinida"
+   },
+   "defaultUriMatchDetection": {
+      "description": "Default URI match detection for auto-fill.",
+      "message": "Deteção de correspondência de URI predefinida"
+   },
+   "defaultUriMatchDetectionDesc": {
+      "message": "Escolha a maneira predefinida pela qual a deteção de correspondência de URI é manuseada para credenciais ao realizar ações como auto-preenchimento."
+   },
+   "delete": {
+      "message": "Eliminar"
+   },
+   "deleteAttachment": {
+      "message": "Eliminar anexo"
+   },
+   "deleteAttachmentConfirmation": {
+      "message": "Tem a certeza de que deseja eliminar este anexo?"
+   },
+   "deleteFolder": {
+      "message": "Eliminar pasta"
+   },
+   "deleteFolderConfirmation": {
+      "message": "Tem a certeza de que pretende eliminar esta pasta?"
+   },
+   "deleteItem": {
+      "message": "Eliminar item"
+   },
+   "deleteItemConfirmation": {
+      "message": "Tem a certeza de que pretende apagar este item?"
+   },
+   "deleteSend": {
+      "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.",
+      "message": "Delete Send"
+   },
+   "deleteSendConfirmation": {
+      "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.",
+      "message": "Are you sure you want to delete this Send?"
+   },
+   "deletedAttachment": {
+      "message": "Anexo eliminado"
+   },
+   "deletedFolder": {
+      "message": "Pasta eliminada"
+   },
+   "deletedItem": {
+      "message": "Item enviado para o lixo"
+   },
+   "deletedSend": {
+      "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.",
+      "message": "Deleted Send"
+   },
+   "deletionDate": {
+      "message": "Deletion Date"
+   },
+   "deletionDateAndTimeRequired": {
+      "message": "A deletion date and time are required."
+   },
+   "deletionDateDesc": {
+      "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.",
+      "message": "The Send will be permanently deleted on the specified date and time."
+   },
+   "deletionDateIsInvalid": {
+      "message": "The deletion date provided is not valid."
+   },
+   "desktopIntegrationDisabledDesc": {
+      "message": "Browser integration is not enabled in the Bitwarden Desktop application. Please enable it in the settings within the desktop application."
+   },
+   "desktopIntegrationDisabledTitle": {
+      "message": "Browser integration is not enabled"
+   },
+   "desktopIntegrationVerificationText": {
+      "message": "Please verify that the desktop application shows this fingerprint: "
+   },
+   "desktopSyncVerificationTitle": {
+      "message": "Desktop sync verification"
+   },
+   "disableAddLoginNotification": {
+      "message": "Desativar notificação de adicionar credencial"
+   },
+   "disableAutoBiometricsPrompt": {
+      "message": "Do not prompt for biometrics on launch"
+   },
+   "disableAutoTotpCopy": {
+      "message": "Desativar cópia automática de TOTP"
+   },
+   "disableAutoTotpCopyDesc": {
+      "message": "Se a sua credencial tem uma chave de autenticador anexada à mesma, o código de verificação TOTP é copiado automaticamente para a sua área de transferência quando quer que auto-preencha a credencial."
+   },
+   "disableBadgeCounter": {
+      "message": "Disable Badge Counter"
+   },
+   "disableBadgeCounterDesc": {
+      "message": "Badge counter indicates how many logins you have for the current page in your vault."
+   },
+   "disableChangedPasswordNotification": {
+      "message": "Desativar notificação de palavra-passe alterada"
+   },
+   "disableChangedPasswordNotificationDesc": {
+      "message": "A \"notificação de palavra-passe alterada\" solicita-lhe automaticamente para atualizar a palavra-passe de uma credencial no seu cofre quando deteta que a alterou num website."
+   },
+   "disableContextMenuItem": {
+      "message": "Desativar opções do menu de contexto"
+   },
+   "disableContextMenuItemDesc": {
+      "message": "As opções do menu de contexto providenciam acesso rápido à geração de palavras-passe e credenciais para o website no seu separador atual."
+   },
+   "disableFavicon": {
+      "message": "Desativar ícones de websites"
+   },
+   "disableFaviconDesc": {
+      "message": "Os ícones de websites providenciam uma imagem reconhecível ao lado de cada item de credencial no seu cofre."
+   },
+   "disabled": {
+      "message": "Disabled"
+   },
+   "dontShowCardsCurrentTab": {
+      "message": "Não mostrar cartões na página do separador"
+   },
+   "dontShowCardsCurrentTabDesc": {
+      "message": "Os itens de cartões do seu cofre estão listados na página 'Separador atual' para acesso de auto-preenchimento fácil."
+   },
+   "dontShowIdentitiesCurrentTab": {
+      "message": "Não mostrar identidades na página do separador"
+   },
+   "dontShowIdentitiesCurrentTabDesc": {
+      "message": "Os itens de identidades do seu cofre estão listados na página 'Separador atual' para acesso de auto-preenchimento fácil."
+   },
+   "dr": {
+      "message": "Dr"
+   },
+   "dragToSort": {
+      "message": "Arraste para ordenar"
+   },
+   "duoDesc": {
+      "description": "'Duo Security' and 'Duo Mobile' are product names and should not be translated.",
+      "message": "Verifique com Duo Security utilizando a aplicação Duo Mobile, SMS, chamada telefónica, ou chave de segurança U2F."
+   },
+   "duoOrganizationDesc": {
+      "description": "'Duo Security' and 'Duo Mobile' are product names and should not be translated.",
+      "message": "Verifique com Duo Security para a sua organização utilizando a aplicação Duo Mobile, SMS, chamada telefónica, ou chave de segurança U2F."
+   },
+   "edit": {
+      "message": "Editar"
+   },
+   "editFolder": {
+      "message": "Editar pasta"
+   },
+   "editItem": {
+      "message": "Editar item"
+   },
+   "editSend": {
+      "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.",
+      "message": "Edit Send"
+   },
+   "editedFolder": {
+      "message": "Pasta editada"
+   },
+   "editedItem": {
+      "message": "Item editado"
+   },
+   "editedSend": {
+      "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.",
+      "message": "Edited Send"
+   },
+   "email": {
+      "message": "Email"
+   },
+   "emailAddress": {
+      "message": "Endereço de email"
+   },
+   "emailDesc": {
+      "message": "Os códigos de verificação vão ser enviados para si."
+   },
+   "emailRequired": {
+      "message": "O endereço de email é requerido."
+   },
+   "emailTitle": {
+      "message": "Email"
+   },
+   "emailVerificationRequired": {
+      "message": "Email Verification Required"
+   },
+   "emailVerificationRequiredDesc": {
+      "message": "You must verify your email to use this feature. You can verify your email in the web vault."
+   },
+   "enableAutoFillOnPageLoad": {
+      "message": "Ativar auto-preenchimento no carregar da página"
+   },
+   "enableAutoFillOnPageLoadDesc": {
+      "message": "Se um formulário de início de sessão for detetado, realizar automaticamente um auto-preenchimento quando a página web carregar."
+   },
+   "encExportAccountWarningDesc": {
+      "message": "Account encryption keys are unique to each Bitwarden user account, so you can't import an encrypted export into a different account."
+   },
+   "encExportKeyWarningDesc": {
+      "message": "This export encrypts your data using your account's encryption key. If you ever rotate your account's encryption key you should export again since you will not be able to decrypt this export file."
+   },
+   "enterEmailToGetHint": {
+      "message": "Introduza o endereço de email da sua conta para receber a dica da sua palavra-passe mestra."
+   },
+   "enterVerificationCodeApp": {
+      "message": "Introduza o código de verificação de 6 dígitos da sua aplicação de autenticador."
+   },
+   "enterVerificationCodeEmail": {
+      "message": "Introduza o código de verificação de 6 dígitos que foi enviado por email para $EMAIL$.",
+      "placeholders": {
+         "email": {
+            "content": "$1",
+            "example": "example@gmail.com"
+         }
+      }
+   },
+   "enterpriseSingleSignOn": {
+      "message": "Início de Sessão Único da Empresa"
+   },
+   "environmentSaved": {
+      "message": "Os URLs de ambiente foram guardados."
+   },
+   "errorEnableBiometricDesc": {
+      "message": "Action was canceled by the desktop application"
+   },
+   "errorEnableBiometricTitle": {
+      "message": "Unable to enable biometrics"
+   },
+   "errorOccurred": {
+      "message": "Ocorreu um erro"
+   },
+   "ex": {
+      "message": "ex."
+   },
+   "exact": {
+      "message": "Exato"
+   },
+   "excludedDomains": {
+      "message": "Excluded Domains"
+   },
+   "excludedDomainsDesc": {
+      "message": "Bitwarden will not ask to save login details for these domains. You must refresh the page for changes to take effect."
+   },
+   "excludedDomainsInvalidDomain": {
+      "message": "$DOMAIN$ não é um domínio válido",
+      "placeholders": {
+         "domain": {
+            "content": "$1",
+            "example": "googlecom"
+         }
+      }
+   },
+   "experimentalFeature": {
+      "message": "Esta é atualmente uma funcionalidade experimental. Utilize por sua conta e risco."
+   },
+   "expiration": {
+      "message": "Expiração"
+   },
+   "expirationDate": {
+      "message": "Expiration Date"
+   },
+   "expirationDateAndTimeRequired": {
+      "message": "An expiration date and time are required."
+   },
+   "expirationDateDesc": {
+      "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.",
+      "message": "If set, access to this Send will expire on the specified date and time."
+   },
+   "expirationDateIsInvalid": {
+      "message": "The expiration date provided is not valid."
+   },
+   "expirationMonth": {
+      "message": "Mês de expiração"
+   },
+   "expirationYear": {
+      "message": "Ano de expiração"
+   },
+   "expired": {
+      "message": "Expired"
+   },
+   "exportMasterPassword": {
+      "message": "Introduza a sua palavra-passe mestra para exportar os dados do seu cofre."
+   },
+   "exportVault": {
+      "message": "Exportar cofre"
+   },
+   "exportWarningDesc": {
+      "message": "Esta exportação contém os seus dados do cofre num formato desencriptado. Não deve armazenar ou enviar o ficheiro exportado através de canais inseguros (como email). Apague-a imediatamente após a utilizar."
+   },
+   "extDesc": {
+      "description": "Extension description",
+      "message": "Um gestor de palavras-passe seguro e gratuito para todos os seus dispositivos."
+   },
+   "extName": {
+      "description": "Extension name, MUST be less than 40 characters (Safari restriction)",
+      "message": "Bitwarden"
+   },
+   "favorite": {
+      "message": "Favorito"
+   },
+   "favorites": {
+      "message": "Favoritos"
+   },
+   "featureUnavailable": {
+      "message": "Funcionalidade indisponível"
+   },
+   "february": {
+      "message": "Fevereiro"
+   },
+   "fifteenMinutes": {
+      "message": "15 minutos"
+   },
+   "file": {
+      "message": "Ficheiro"
+   },
+   "fileFormat": {
+      "message": "Formato do ficheiro"
+   },
+   "fingerprintPhrase": {
+      "description": "A 'fingerprint phrase' is a unique word phrase (similar to a passphrase) that a user can use to authenticate their public key with another user, for the purposes of sharing.",
+      "message": "Frase de impressão digital"
+   },
+   "firstName": {
+      "message": "Primeiro nome"
+   },
+   "fiveMinutes": {
+      "message": "5 minutos"
+   },
+   "folder": {
+      "message": "Pasta"
+   },
+   "folders": {
+      "message": "Pastas"
+   },
+   "fourHours": {
+      "message": "4 horas"
+   },
+   "generatePassword": {
+      "message": "Gerar palavra-passe"
+   },
+   "generatePasswordCopied": {
+      "message": "Gerar palavra-passe (copiada)"
+   },
+   "generator": {
+      "description": "Short for 'Password Generator'.",
+      "message": "Gerador"
+   },
+   "getMasterPasswordHint": {
+      "message": "Obter dica da palavra-passe mestra"
+   },
+   "gettingStartedTutorial": {
+      "message": "Tutorial de introdução"
+   },
+   "gettingStartedTutorialVideo": {
+      "message": "Veja o nosso tutorial de introdução e saiba como tirar o máximo partido da extensão de navegador."
+   },
+   "good": {
+      "description": "ex. A good password. Scale: Weak -> Good -> Strong",
+      "message": "Boa"
+   },
+   "helpFeedback": {
+      "message": "Ajuda e feedback"
+   },
+   "hideEmail": {
+      "message": "Hide my email address from recipients."
+   },
+   "hintEqualsPassword": {
+      "message": "Your password hint cannot be the same as your password."
+   },
+   "host": {
+      "description": "A URL's host value. For example, the host of https://sub.domain.com:443 is 'sub.domain.com:443'.",
+      "message": "Servidor"
+   },
+   "hours": {
+      "message": "Hours"
+   },
+   "iconsUrl": {
+      "message": "URL do servidor de ícones"
+   },
+   "identities": {
+      "message": "Identidades"
+   },
+   "identityName": {
+      "message": "Nome de identidade"
+   },
+   "identityUrl": {
+      "message": "URL do servidor de identidade"
+   },
+   "immediately": {
+      "message": "Imediatamente"
+   },
+   "importItems": {
+      "message": "Importar itens"
+   },
+   "includeNumber": {
+      "message": "Incluir número"
+   },
+   "insertU2f": {
+      "message": "Introduza a sua chave de segurança na porta USB do seu computador. Se tiver um botão, toque no mesmo."
+   },
+   "insertYubiKey": {
+      "message": "Introduza a sua YubiKey na porta USB do seu computador, depois toque no botão da mesma."
+   },
+   "invalidEmail": {
+      "message": "Endereço de email inválido."
+   },
+   "invalidMasterPassword": {
+      "message": "Palavra-passe mestra inválida"
+   },
+   "invalidPin": {
+      "message": "Código PIN inválido."
+   },
+   "itemAutoFillOnPageLoad": {
+      "message": "Auto-fill on Page Load (if enabled in Options)"
+   },
+   "itemInformation": {
+      "message": "Informação do item"
+   },
+   "january": {
+      "message": "Janeiro"
+   },
+   "july": {
+      "message": "Julho"
+   },
+   "june": {
+      "message": "Junho"
+   },
+   "lastName": {
+      "message": "Último nome"
+   },
+   "lastSync": {
+      "message": "Última sincronização:"
+   },
+   "launch": {
+      "message": "Iniciar"
+   },
+   "learnMore": {
+      "message": "Saber mais"
+   },
+   "learnOrg": {
+      "message": "Learn about Organizations"
+   },
+   "learnOrgConfirmation": {
+      "message": "Bitwarden allows you to share your vault items with others by using an organization. Would you like to visit the bitwarden.com website to learn more?"
+   },
+   "length": {
+      "message": "Comprimento"
+   },
+   "licenseNumber": {
+      "message": "Número da licença"
+   },
+   "light": {
+      "description": "Light color",
+      "message": "Claro"
+   },
+   "lock": {
+      "description": "Verb form: to make secure or inaccesible by",
+      "message": "Bloquear"
+   },
+   "lockNow": {
+      "message": "Bloquear agora"
+   },
+   "lockWithMasterPassOnRestart": {
+      "message": "Bloquear com palavra-passe mestra quando reiniciar o navegador"
+   },
+   "logOut": {
+      "message": "Terminar sessão"
+   },
+   "logOutConfirmation": {
+      "message": "Tem a certeza de que pretende terminar sessão?"
+   },
+   "loggedInAsOn": {
+      "message": "Sessão iniciada como $EMAIL$ em $HOSTNAME$.",
+      "placeholders": {
+         "email": {
+            "content": "$1",
+            "example": "name@example.com"
+         },
+         "hostname": {
+            "content": "$2",
+            "example": "bitwarden.com"
+         }
+      }
+   },
+   "loggedOut": {
+      "message": "Sessão terminada"
+   },
+   "login": {
+      "message": "Iniciar sessão"
+   },
+   "loginExpired": {
+      "message": "A sua sessão expirou."
+   },
+   "loginOrCreateNewAccount": {
+      "message": "Inicie sessão ou crie uma nova conta para aceder ao seu cofre seguro."
+   },
+   "loginUnavailable": {
+      "message": "Início de sessão indisponível"
+   },
+   "logins": {
+      "message": "Credenciais"
+   },
+   "manage": {
+      "message": "Gerir"
+   },
+   "march": {
+      "message": "Março"
+   },
+   "masterPass": {
+      "message": "Palavra-passe mestra"
+   },
+   "masterPassDesc": {
+      "message": "A palavra-passe mestra é a palavra-passe que utiliza para aceder ao seu cofre. É muito importante que não se esqueça da sua palavra-passe mestra. Não existe maneira de recuperar a palavra-passe no caso de a esquecer."
+   },
+   "masterPassDoesntMatch": {
+      "message": "A confirmação da palavra-passe mestra não corresponde."
+   },
+   "masterPassHint": {
+      "message": "Dica da palavra-passe mestra (opcional)"
+   },
+   "masterPassHintDesc": {
+      "message": "Uma dica da palavra-passe mestra pode ajudar a lembrar-se da sua palavra-passe se a esquecer."
+   },
+   "masterPassLength": {
+      "message": "A palavra-passe mestra tem de ter pelo menos 8 caracteres."
+   },
+   "masterPassRequired": {
+      "message": "A palavra-passe mestra é requerida."
+   },
+   "masterPassSent": {
+      "message": "Enviámos-lhe um email com a dica da sua palavra-passe mestra."
+   },
+   "masterPasswordPolicyInEffect": {
+      "message": "Uma ou mais políticas da organização requerem que a sua palavra-passe mestra cumpra aos seguintes requisitos:"
+   },
+   "masterPasswordPolicyRequirementsNotMet": {
+      "message": "A sua nova palavra-passe mestra não cumpre os requisitos da política."
+   },
+   "matchDetection": {
+      "description": "URI match detection for auto-fill.",
+      "message": "Deteção de correspondência"
+   },
+   "maxAccessCountReached": {
+      "message": "Max access count reached"
+   },
+   "maxFileSize": {
+      "message": "O tamanho máximo do ficheiro é de 500 MB."
+   },
+   "maximumAccessCount": {
+      "message": "Maximum Access Count"
+   },
+   "maximumAccessCountDesc": {
+      "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.",
+      "message": "If set, users will no longer be able to access this Send once the maximum access count is reached."
+   },
+   "may": {
+      "message": "Maio"
+   },
+   "middleName": {
+      "message": "Nome do meio"
+   },
+   "minNumbers": {
+      "message": "Números mínimos"
+   },
+   "minSpecial": {
+      "message": "Especiais mínimos"
+   },
+   "minutes": {
+      "message": "Minutes"
+   },
+   "move": {
+      "message": "Move"
+   },
+   "moveToOrgDesc": {
+      "message": "Choose an organization that you wish to move this item to. Moving to an organization transfers ownership of the item to that organization. You will no longer be the direct owner of this item once it has been moved."
+   },
+   "moveToOrganization": {
+      "message": "Move to Organization"
+   },
+   "movedItemToOrg": {
+      "message": "$ITEMNAME$ moved to $ORGNAME$",
+      "placeholders": {
+         "itemname": {
+            "content": "$1",
+            "example": "Secret Item"
+         },
+         "orgname": {
+            "content": "$2",
+            "example": "Company Name"
+         }
+      }
+   },
+   "mr": {
+      "message": "Sr"
+   },
+   "mrs": {
+      "message": "Sra"
+   },
+   "ms": {
+      "message": "Sra"
+   },
+   "myVault": {
+      "message": "Meu cofre"
+   },
+   "name": {
+      "message": "Nome"
+   },
+   "nameRequired": {
+      "message": "O nome é requerido."
+   },
+   "nativeMessaginPermissionErrorDesc": {
+      "message": "Without permission to communicate with the Bitwarden Desktop Application we cannot provide biometrics in the browser extension. Please try again."
+   },
+   "nativeMessaginPermissionErrorTitle": {
+      "message": "Permission not provided"
+   },
+   "nativeMessaginPermissionSidebarDesc": {
+      "message": "This action cannot be done in the sidebar, please retry the action in the popup or popout."
+   },
+   "nativeMessaginPermissionSidebarTitle": {
+      "message": "Permission request error"
+   },
+   "nativeMessagingInvalidEncryptionDesc": {
+      "message": "Desktop application invalidated the secure communication channel. Please retry this operation"
+   },
+   "nativeMessagingInvalidEncryptionTitle": {
+      "message": "Desktop communication interrupted"
+   },
+   "nativeMessagingWrongUserDesc": {
+      "message": "The desktop application is logged into a different account. Please ensure both applications are logged into the same account."
+   },
+   "nativeMessagingWrongUserTitle": {
+      "message": "Account missmatch"
+   },
+   "never": {
+      "message": "Nunca"
+   },
+   "neverLockWarning": {
+      "message": "Tem a certeza de que pretende utilizar a opção \"Nunca\"? Definir as suas opções de bloqueio para \"Nunca\" armazena a chave de encriptação do seu cofre no seu dispositivo. Se utilizar esta opção deve assegurar-se de que mantém o seu dispositivo devidamente protegido."
+   },
+   "newAccountCreated": {
+      "message": "A sua nova conta foi criada! Agora pode iniciar sessão."
+   },
+   "newAttachment": {
+      "message": "Adicionar novo anexo"
+   },
+   "newCustomField": {
+      "message": "Novo campo personalizado"
+   },
+   "newPassword": {
+      "message": "New Password"
+   },
+   "newUri": {
+      "message": "Novo URI"
+   },
+   "no": {
+      "message": "Não"
+   },
+   "noAttachments": {
+      "message": "Sem anexos."
+   },
+   "noCollectionsInList": {
+      "message": "Não existem coleções para listar."
+   },
+   "noFolders": {
+      "message": "Não existem pastas para listar."
+   },
+   "noItemsInList": {
+      "message": "Não existem itens para listar."
+   },
+   "noMatchingLogins": {
+      "message": "Sem credencias correspondidas."
+   },
+   "noOrganizationsList": {
+      "message": "Você não pertence a nenhuma organização. Organizações permitem-lhe partilhar itens em segurança com outros utilizadores."
+   },
+   "noPasswordsInList": {
+      "message": "Não existem palavras-passe para listar."
+   },
+   "noTwoStepProviders": {
+      "message": "Esta conta tem o início de sessão de dois passos ativado, no entanto, nenhum dos provedores de início de sessão de dois passos configurados são suportados por este navegador web."
+   },
+   "noTwoStepProviders2": {
+      "message": "Por favor utilize um navegador web suportado (tal como o Chrome) e/ou adicione provedores adicionais que são melhor suportados entre navegadores web (tal como uma aplicação de autenticador)."
+   },
+   "noneFolder": {
+      "description": "This is the folder for uncategorized items",
+      "message": "Nenhuma pasta"
+   },
+   "note": {
+      "message": "Nota"
+   },
+   "notes": {
+      "message": "Notas"
+   },
+   "notificationAddDesc": {
+      "message": "Deve o Bitwarden memorizar esta palavra-passe para si?"
+   },
+   "notificationAddSave": {
+      "message": "Sim, guardar agora"
+   },
+   "notificationChangeDesc": {
+      "message": "Pretende atualizar esta palavra-passe no Bitwarden?"
+   },
+   "notificationChangeSave": {
+      "message": "Sim, atualizar agora"
+   },
+   "notificationNeverSave": {
+      "message": "Nunca para este site"
+   },
+   "notificationsUrl": {
+      "message": "URL do servidor de notificações"
+   },
+   "november": {
+      "message": "Novembro"
+   },
+   "numWords": {
+      "message": "Número de palavras"
+   },
+   "number": {
+      "message": "Número"
+   },
+   "october": {
+      "message": "Outubro"
+   },
+   "ok": {
+      "message": "Ok"
+   },
+   "onLocked": {
+      "message": "Quando o sistema está bloqueado"
+   },
+   "onRestart": {
+      "message": "Quando reiniciar o navegador"
+   },
+   "oneDay": {
+      "message": "1 day"
+   },
+   "oneHour": {
+      "message": "1 hora"
+   },
+   "oneMinute": {
+      "message": "1 minuto"
+   },
+   "options": {
+      "message": "Opções"
+   },
+   "organization": {
+      "description": "An entity of multiple related people (ex. a team or business organization).",
+      "message": "Organização"
+   },
+   "other": {
+      "message": "Outros"
+   },
+   "overwritePassword": {
+      "message": "Sobreescrever palavra-passe"
+   },
+   "overwritePasswordConfirmation": {
+      "message": "Tem a certeza de que pretende sobreescrever a palavra-passe atual?"
+   },
+   "ownership": {
+      "message": "Propriedade"
+   },
+   "passGen": {
+      "message": "Gerador de palavras-passe"
+   },
+   "passGenInfo": {
+      "message": "Gera automaticamente palavras-passe fortes e únicas para as suas credenciais."
+   },
+   "passphrase": {
+      "message": "Frase-passe"
+   },
+   "passportNumber": {
+      "message": "Número do passaporte"
+   },
+   "password": {
+      "message": "Palavra-passe"
+   },
+   "passwordConfirmation": {
+      "message": "Master password confirmation"
+   },
+   "passwordConfirmationDesc": {
+      "message": "This action is protected. To continue, please re-enter your master password to verify your identity."
+   },
+   "passwordCopied": {
+      "message": "Palavra-passe copiada"
+   },
+   "passwordExposed": {
+      "message": "Esta palavra-passe foi exposta $VALUE$ vez(es) em brechas de dados. Deve alterá-la.",
+      "placeholders": {
+         "value": {
+            "content": "$1",
+            "example": "2"
+         }
+      }
+   },
+   "passwordGeneratorPolicyInEffect": {
+      "message": "Uma ou mais políticas de organização estão a afetar as suas definições do gerador."
+   },
+   "passwordHint": {
+      "message": "Dica da palavra-passe"
+   },
+   "passwordHistory": {
+      "message": "Histórico de palavras-passe"
+   },
+   "passwordPrompt": {
+      "message": "Master password re-prompt"
+   },
+   "passwordProtected": {
+      "message": "Password protected"
+   },
+   "passwordSafe": {
+      "message": "Esta palavra-passe não foi encontrada em nenhuma brecha de dados conhecida. Esta deve ser segura de utilizar."
+   },
+   "pendingDeletion": {
+      "message": "Pending deletion"
+   },
+   "permanentlyDeleteItem": {
+      "message": "Eliminar item permanentemente"
+   },
+   "permanentlyDeleteItemConfirmation": {
+      "message": "Tem a certeza de que pretende eliminar este item permanentemente?"
+   },
+   "permanentlyDeletedItem": {
+      "message": "Item eliminado permanentemente"
+   },
+   "personalOwnershipPolicyInEffect": {
+      "message": "An organization policy is affecting your ownership options."
+   },
+   "personalOwnershipSubmitError": {
+      "message": "Due to an Enterprise Policy, you are restricted from saving items to your personal vault. Change the Ownership option to an organization and choose from available Collections."
+   },
+   "personalVaultExportPolicyInEffect": {
+      "message": "One or more organization policies prevents you from exporting your personal vault."
+   },
+   "phone": {
+      "message": "Telefone"
+   },
+   "pin": {
+      "description": "PIN code. Ex. The short code (often numeric) that you use to unlock a device.",
+      "message": "PIN"
+   },
+   "pinRequired": {
+      "message": "O código PIN é requerido."
+   },
+   "policyInEffectLowercase": {
+      "message": "Contém um ou mais caracteres em minúsculas"
+   },
+   "policyInEffectMinComplexity": {
+      "message": "Pontuação mínima de complexidade de $SCORE$",
+      "placeholders": {
+         "score": {
+            "content": "$1",
+            "example": "4"
+         }
+      }
+   },
+   "policyInEffectMinLength": {
+      "message": "Comprimento mínimo de $LENGTH$",
+      "placeholders": {
+         "length": {
+            "content": "$1",
+            "example": "14"
+         }
+      }
+   },
+   "policyInEffectNumbers": {
+      "message": "Contém um ou mais números"
+   },
+   "policyInEffectSpecial": {
+      "message": "Contém um ou mais dos seguintes caracteres especiais $CHARS$",
+      "placeholders": {
+         "chars": {
+            "content": "$1",
+            "example": "!@#$%^&*"
+         }
+      }
+   },
+   "policyInEffectUppercase": {
+      "message": "Contém um ou mais caracteres em maiúsculas"
+   },
+   "popOutNewWindow": {
+      "message": "Enviar para uma nova janela"
+   },
+   "popup2faCloseMessage": {
+      "message": "Clicar fora da janela popup para verificar o seu email pelo código de verificação irá causar com que este popup feche. Deseja abrir este popup numa nova janela para que este não se feche?"
+   },
+   "popupU2fCloseMessage": {
+      "message": "Este navegador não pode processar solicitações U2F nesta janela popup. Pretende abrir este popup numa nova janela para que inicie sessão utilizando U2F?"
+   },
+   "ppremiumSignUpFuture": {
+      "message": "Todas as funcionalidades premium futuras. Mais a chegar brevemente!"
+   },
+   "ppremiumSignUpReports": {
+      "message": "Higiene de palavras-passe, saúde das contas, e relatórios de brechas de dados para manter o seu cofre seguro."
+   },
+   "ppremiumSignUpStorage": {
+      "message": "1 GB de armazenamento encriptado para anexos de ficheiros."
+   },
+   "ppremiumSignUpSupport": {
+      "message": "Prioridade no apoio ao cliente."
+   },
+   "ppremiumSignUpTotp": {
+      "message": "Gerador de códigos de verificação TOTP (2FA) para credenciais no seu cofre."
+   },
+   "ppremiumSignUpTwoStep": {
+      "message": "Opções de início de sessão de dois passos adicionais como YubiKey, FIDO U2F, e Duo."
+   },
+   "premiumCurrentMember": {
+      "message": "É um membro premium!"
+   },
+   "premiumCurrentMemberThanks": {
+      "message": "Obrigado por apoiar o Bitwarden."
+   },
+   "premiumManage": {
+      "message": "Gerir adesão"
+   },
+   "premiumManageAlert": {
+      "message": "Pode gerir a sua adesão premium no cofre web bitwarden.com. Pretende visitar o website agora?"
+   },
+   "premiumMembership": {
+      "message": "Adesão Premium"
+   },
+   "premiumNotCurrentMember": {
+      "message": "Não é atualmente um membro premium."
+   },
+   "premiumPrice": {
+      "message": "Tudo por apenas $PRICE$ /ano!",
+      "placeholders": {
+         "price": {
+            "content": "$1",
+            "example": "$10"
+         }
+      }
+   },
+   "premiumPurchase": {
+      "message": "Comprar Premium"
+   },
+   "premiumPurchaseAlert": {
+      "message": "Pode comprar adesão premium no cofre web bitwarden.com. Pretende visitar o website agora?"
+   },
+   "premiumRefresh": {
+      "message": "Atualizar adesão"
+   },
+   "premiumRequired": {
+      "message": "Premium requerido"
+   },
+   "premiumRequiredDesc": {
+      "message": "É requerida uma adesão premium para utilizar esta funcionalidade."
+   },
+   "premiumSignUpAndGet": {
+      "message": "Registe-se para uma adesão premium e obtenha:"
+   },
+   "privacyPolicy": {
+      "message": "Política de privacidade"
+   },
+   "privateModeMessage": {
+      "message": "Infelizmente esta janela não está disponível no modo privado para este navegador."
+   },
+   "rateExtension": {
+      "message": "Avaliar a extensão"
+   },
+   "rateExtensionDesc": {
+      "message": "Por favor considere ajudar-nos com uma boa análise!"
+   },
+   "reTypeMasterPass": {
+      "message": "Reescreva a palavra-passe mestra"
+   },
+   "recoveryCodeDesc": {
+      "message": "Perdeu o acesso a todos os seus provedores de dois passos? Utilize o seu código de recuperação para desativar todos os provedores de dois passos da sua conta."
+   },
+   "recoveryCodeTitle": {
+      "message": "Código de recuperação"
+   },
+   "refresh": {
+      "message": "Atualizar"
+   },
+   "refreshComplete": {
+      "message": "Atualização completada"
+   },
+   "regEx": {
+      "description": "A programming term, also known as 'RegEx'.",
+      "message": "Expressão regular"
+   },
+   "regeneratePassword": {
+      "message": "Regenerar palavra-passe"
+   },
+   "rememberMe": {
+      "message": "Memorizar-me"
+   },
+   "remove": {
+      "message": "Remover"
+   },
+   "removePassword": {
+      "message": "Remover palavra-passe"
+   },
+   "removePasswordConfirmation": {
+      "message": "Are you sure you want to remove the password?"
+   },
+   "removedPassword": {
+      "message": "Palavra-passe removida"
+   },
+   "resetPasswordAutoEnrollInviteWarning": {
+      "message": "This organization has an enterprise policy that will automatically enroll you in password reset. Enrollment will allow organization administrators to change your master password."
+   },
+   "resetPasswordPolicyAutoEnroll": {
+      "message": "Automatic Enrollment"
+   },
+   "restoreItem": {
+      "message": "Restaurar item"
+   },
+   "restoreItemConfirmation": {
+      "message": "Tem a certeza de que pretende restaurar este item?"
+   },
+   "restoredItem": {
+      "message": "Item restaurado"
+   },
+   "save": {
+      "message": "Guardar"
+   },
+   "searchCollection": {
+      "message": "Pesquisar coleção"
+   },
+   "searchFolder": {
+      "message": "Pesquisar pasta"
+   },
+   "searchSends": {
+      "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.",
+      "message": "Search Sends"
+   },
+   "searchTrash": {
+      "message": "Pesquisar lixo"
+   },
+   "searchType": {
+      "message": "Pesquisar tipo"
+   },
+   "searchVault": {
+      "message": "Pesquisar cofre"
+   },
+   "secureNotes": {
+      "message": "Notas seguras"
+   },
+   "security": {
+      "message": "Segurança"
+   },
+   "securityCode": {
+      "message": "Código de segurança"
+   },
+   "select": {
+      "message": "Selecionar"
+   },
+   "selectFile": {
+      "message": "Selecione um ficheiro."
+   },
+   "selectFolder": {
+      "message": "Select folder..."
+   },
+   "selectOneCollection": {
+      "message": "Tem de selecionar pelo menos uma coleção."
+   },
+   "selfHostedEnvironment": {
+      "message": "Ambiente auto-hospedado"
+   },
+   "selfHostedEnvironmentFooter": {
+      "message": "Especifique o URL de base da sua instalação local do Bitwarden alojada nas suas premissas."
+   },
+   "send": {
+      "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.",
+      "message": "Send"
+   },
+   "sendDisableDesc": {
+      "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.",
+      "message": "Disable this Send so that no one can access it."
+   },
+   "sendDisabled": {
+      "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.",
+      "message": "Send Disabled"
+   },
+   "sendDisabledWarning": {
+      "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.",
+      "message": "Due to an enterprise policy, you are only able to delete an existing Send."
+   },
+   "sendFileCalloutHeader": {
+      "message": "Before you start"
+   },
+   "sendFileDesc": {
+      "message": "The file you want to send."
+   },
+   "sendFirefoxCustomDatePopoutMessage1": {
+      "description": "This will be used as part of a larger sentence, broken up to include links. The full sentence will read '**To use a calendar style date picker ** click here to pop out your window.'",
+      "message": "To use a calendar style date picker"
+   },
+   "sendFirefoxCustomDatePopoutMessage2": {
+      "description": "This will be used as part of a larger sentence, broken up to include links. The full sentence will read 'To use a calendar style date picker **click here** to pop out your window.'",
+      "message": "click here"
+   },
+   "sendFirefoxCustomDatePopoutMessage3": {
+      "description": "This will be used as part of a larger sentence, broken up to include links. The full sentence will read 'To use a calendar style date picker click here **to pop out your window.**'",
+      "message": "to pop out your window."
+   },
+   "sendFirefoxFileWarning": {
+      "message": "In order to choose a file using Firefox, open the extension in the sidebar or pop out to a new window by clicking this banner."
+   },
+   "sendHideText": {
+      "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.",
+      "message": "Hide this Send's text by default."
+   },
+   "sendLink": {
+      "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.",
+      "message": "Send link"
+   },
+   "sendLinuxChromiumFileWarning": {
+      "message": "In order to choose a file, open the extension in the sidebar (if possible) or pop out to a new window by clicking this banner."
+   },
+   "sendNameDesc": {
+      "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.",
+      "message": "A friendly name to describe this Send."
+   },
+   "sendNotesDesc": {
+      "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.",
+      "message": "Private notes about this Send."
+   },
+   "sendOptionsPolicyInEffect": {
+      "message": "One or more organization policies are affecting your Send options."
+   },
+   "sendPasswordDesc": {
+      "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.",
+      "message": "Optionally require a password for users to access this Send."
+   },
+   "sendSafariFileWarning": {
+      "message": "In order to choose a file using Safari, pop out to a new window by clicking this banner."
+   },
+   "sendShareDesc": {
+      "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.",
+      "message": "Copy this Send's link to clipboard upon save."
+   },
+   "sendTextDesc": {
+      "message": "The text you want to send."
+   },
+   "sendTypeFile": {
+      "message": "Ficheiro"
+   },
+   "sendTypeHeader": {
+      "description": "'Send' is a noun and the name of a feature called 'Bitwarden Send'. It should not be translated.",
+      "message": "What type of Send is this?"
+   },
+   "sendTypeText": {
+      "message": "Texto"
+   },
+   "sendVerificationCodeEmailAgain": {
+      "message": "Enviar código de verificação novamente"
+   },
+   "september": {
+      "message": "Setembro"
+   },
+   "setMasterPassword": {
+      "message": "Definir palavra-passe mestra"
+   },
+   "setYourPinCode": {
+      "message": "Defina o seu código PIN para desbloquear o Bitwarden. As suas definições PIN serão redefinidas se terminar sessão completamente da aplicação."
+   },
+   "settings": {
+      "message": "Definições"
+   },
+   "share": {
+      "message": "Partilhar"
+   },
+   "shared": {
+      "message": "Partilhado"
+   },
+   "solarizedDark": {
+      "description": "'Solarized' is a noun and the name of a color scheme. It should not be translated.",
+      "message": "Solarized Dark"
+   },
+   "ssn": {
+      "message": "Número de segurança social"
+   },
+   "ssoCompleteRegistration": {
+      "message": "In order to complete logging in with SSO, please set a master password to access and protect your vault."
+   },
+   "startDesktopDesc": {
+      "message": "The Bitwarden Desktop application needs to be started before this function can be used."
+   },
+   "startDesktopTitle": {
+      "message": "Start the Bitwarden Desktop application"
+   },
+   "startsWith": {
+      "message": "Começa por"
+   },
+   "stateProvince": {
+      "message": "Estado / província"
+   },
+   "strong": {
+      "description": "ex. A strong password. Scale: Weak -> Good -> Strong",
+      "message": "Forte"
+   },
+   "submit": {
+      "message": "Submeter"
+   },
+   "sync": {
+      "message": "Sincronizar"
+   },
+   "syncVaultNow": {
+      "message": "Sincronizar cofre agora"
+   },
+   "syncingComplete": {
+      "message": "Sincronização completada"
+   },
+   "syncingFailed": {
+      "message": "Sincronização falhada"
+   },
+   "tab": {
+      "message": "Separador"
+   },
+   "tenSeconds": {
+      "message": "10 segundos"
+   },
+   "termsOfService": {
+      "message": "Termos de serviço"
+   },
+   "theme": {
+      "message": "Tema"
+   },
+   "themeDesc": {
+      "message": "Altere o tema de cor da aplicação."
+   },
+   "thirtyMinutes": {
+      "message": "30 minutos"
+   },
+   "thirtySeconds": {
+      "message": "30 segundos"
+   },
+   "title": {
+      "message": "Título"
+   },
+   "toggleCurrentUris": {
+      "description": "Toggle the display of the URIs of the currently open tabs in the browser.",
+      "message": "Alternar URIs atuais"
+   },
+   "toggleOptions": {
+      "message": "Alternar opções"
+   },
+   "toggleVisibility": {
+      "message": "Alternar visibilidade"
+   },
+   "tools": {
+      "message": "Ferramentas"
+   },
+   "trash": {
+      "description": "Noun: a special folder to hold deleted items",
+      "message": "Lixo"
+   },
+   "twentySeconds": {
+      "message": "20 segundos"
+   },
+   "twoMinutes": {
+      "message": "2 minutos"
+   },
+   "twoStepLogin": {
+      "message": "Início de sessão de dois passos"
+   },
+   "twoStepLoginConfirmation": {
+      "message": "O início de sessão de dois passos torna a sua conta mais segura ao requerer que verifique o seu início de sessão com outro dispositivo como uma chave de segurança, aplicação de autenticação, SMS, chamada telefónica, ou email. O início de sessão de dois passos pode ser ativado no cofre web bitwarden.com. Pretende visitar o website agora?"
+   },
+   "twoStepOptions": {
+      "message": "Opções de início de sessão de dois passos"
+   },
+   "type": {
+      "message": "Tipo"
+   },
+   "typeCard": {
+      "message": "Cartão"
+   },
+   "typeIdentity": {
+      "message": "Identidade"
+   },
+   "typeLogin": {
+      "message": "Credencial"
+   },
+   "typeLogins": {
+      "message": "Credenciais"
+   },
+   "typeSecureNote": {
+      "message": "Nota segura"
+   },
+   "types": {
+      "message": "Tipos"
+   },
+   "unexpectedError": {
+      "message": "Ocorreu um erro inesperado."
+   },
+   "unlock": {
+      "message": "Desbloquear"
+   },
+   "unlockWithBiometrics": {
+      "message": "Unlock with biometrics"
+   },
+   "unlockWithPin": {
+      "message": "Desbloquear com PIN"
+   },
+   "updateKey": {
+      "message": "Não pode utilizar esta funcionalidade até atualizar a sua chave de encriptação."
+   },
+   "updateMasterPassword": {
+      "message": "Update Master Password"
+   },
+   "updateMasterPasswordWarning": {
+      "message": "Your Master Password was recently changed by an administrator in your organization. In order to access the vault, you must update it now. Proceeding will log you out of your current session, requiring you to log back in. Active sessions on other devices may continue to remain active for up to one hour."
+   },
+   "updatedMasterPassword": {
+      "message": "Updated Master Password"
+   },
+   "uri": {
+      "message": "URI"
+   },
+   "uriPosition": {
+      "description": "A listing of URIs. Ex: URI 1, URI 2, URI 3, etc.",
+      "message": "URI $POSITION$",
+      "placeholders": {
+         "position": {
+            "content": "$1",
+            "example": "2"
+         }
+      }
+   },
+   "useAnotherTwoStepMethod": {
+      "message": "Utilizar outro método de início de sessão de dois passos"
+   },
+   "username": {
+      "message": "Nome de utilizador"
+   },
+   "value": {
+      "message": "Valor"
+   },
+   "valueCopied": {
+      "description": "Value has been copied to the clipboard.",
+      "message": "$VALUE$ copiado(a)",
+      "placeholders": {
+         "value": {
+            "content": "$1",
+            "example": "Password"
+         }
+      }
+   },
+   "vaultExportDisabled": {
+      "message": "Vault Export Disabled"
+   },
+   "vaultLocked": {
+      "message": "O cofre está bloqueado."
+   },
+   "vaultLoggedOut": {
+      "message": "Sessão terminada no cofre."
+   },
+   "vaultTimeout": {
+      "message": "Expiração do cofre"
+   },
+   "vaultTimeoutAction": {
+      "message": "Ação de expiração do cofre"
+   },
+   "vaultTimeoutLogOutConfirmation": {
+      "message": "Terminar sessão irá remover todos os acessos ao seu cofre e requer autenticação online após o período de expiração. Tem a certeza de que pretende utilizar esta definição?"
+   },
+   "vaultTimeoutLogOutConfirmationTitle": {
+      "message": "Confirmação de expiração do cofre"
+   },
+   "vaultTimeoutPolicyInEffect": {
+      "message": "Your organization policies are affecting your vault timeout. Maximum allowed Vault Timeout is $HOURS$ hour(s) and $MINUTES$ minute(s)",
+      "placeholders": {
+         "hours": {
+            "content": "$1",
+            "example": "5"
+         },
+         "minutes": {
+            "content": "$2",
+            "example": "5"
+         }
+      }
+   },
+   "vaultTimeoutToLarge": {
+      "message": "Your vault timeout exceeds the restrictions set by your organization."
+   },
+   "verificationCode": {
+      "message": "Código de verificação"
+   },
+   "verificationCodeEmailSent": {
+      "message": "Email de verificação enviado para $EMAIL$.",
+      "placeholders": {
+         "email": {
+            "content": "$1",
+            "example": "example@gmail.com"
+         }
+      }
+   },
+   "verificationCodeRequired": {
+      "message": "O código de verificação é requerido."
+   },
+   "verificationCodeTotp": {
+      "message": "Código de verificação (TOTP)"
+   },
+   "verifyMasterPassword": {
+      "message": "Verificar palavra-passe mestra"
+   },
+   "verifyPin": {
+      "message": "Verificar PIN"
+   },
+   "version": {
+      "message": "Versão"
+   },
+   "view": {
+      "message": "Ver"
+   },
+   "viewItem": {
+      "message": "Ver item"
+   },
+   "warning": {
+      "description": "WARNING (should stay in capitalized letters if the language permits)",
+      "message": "AVISO"
+   },
+   "weak": {
+      "description": "ex. A weak password. Scale: Weak -> Good -> Strong",
+      "message": "Fraca"
+   },
+   "weakMasterPassword": {
+      "message": "Palavra-passe mestra fraca"
+   },
+   "weakMasterPasswordDesc": {
+      "message": "A palavra-passe mestra que escolheu é fraca. Deve utilizar uma palavra-passe mestra forte (ou uma frase-passe) para proteger adequadamente a sua conta Bitwarden. Tem a certeza de que pretende utilizar esta palavra-passe mestra?"
+   },
+   "webAuthnAuthenticate": {
+      "message": "Authenticate WebAuthn"
+   },
+   "webAuthnDesc": {
+      "message": "Use any WebAuthn enabled security key to access your account."
+   },
+   "webAuthnNewTab": {
+      "message": "To start the WebAuthn 2FA verification. Click the button below to open a new tab and follow the instructions provided in the new tab."
+   },
+   "webAuthnNewTabOpen": {
+      "message": "Open new tab"
+   },
+   "webAuthnTitle": {
+      "message": "FIDO2 WebAuthn"
+   },
+   "webVaultUrl": {
+      "message": "URL do servidor do cofre web"
+   },
+   "website": {
+      "message": "Website"
+   },
+   "whoOwnsThisItem": {
+      "message": "Quem é o proprietário deste item?"
+   },
+   "wordSeparator": {
+      "message": "Separador de palavras"
+   },
+   "yes": {
+      "message": "Sim"
+   },
+   "yourAccountsFingerprint": {
+      "description": "A 'fingerprint phrase' is a unique word phrase (similar to a passphrase) that a user can use to authenticate their public key with another user, for the purposes of sharing.",
+      "message": "A frase de impressão digital da sua conta"
+   },
+   "yourVaultIsLocked": {
+      "message": "O seu cofre está bloqueado. Verifique a sua palavra-passe mestra para continuar."
+   },
+   "yourVaultIsLockedPinCode": {
+      "message": "O seu cofre está bloqueado. Verifique o seu PIN para continuar."
+   },
+   "yubiKeyDesc": {
+      "message": "Utilize uma YubiKey para aceder à sua conta. Funciona com YubiKey 4, 4 Nano, 4C, e dispositivos NEO."
+   },
+   "yubiKeyTitle": {
+      "message": "Chave de segurança YubiKey OTP"
+   },
+   "zipPostalCode": {
+      "message": "Código postal"
+   }
+}

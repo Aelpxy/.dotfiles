@@ -1,0 +1,18 @@
+[Applets][3]
+immutability=1
+plugin=org.kde.plasma.systemmonitor
+
+[Applets][3][Configuration]
+PreloadWeight=42
+geometry=415,218,160,217
+
+[Applets][3][Configuration][Appearance]
+chartFace=org.kde.ksysguard.linechart
+title=Hard Disk Activity
+
+[Applets][3][Configuration][SensorColors]
+disk/all/read=155,7,25
+disk/all/write=7,155,137
+
+[Applets][3][Configuration][Sensors]
+highPrioritySensorIds=["disk/all/write","disk/all/read"]
